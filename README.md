@@ -4,11 +4,10 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Kotlin   27 hrs 2 mins   ███████████████████████▒░   93.85 % 
-Elixir   1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Python   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-JSON     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Java     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Kotlin       27 hrs 32 mins  ███████████████████████▓░   94.35 % 
+Elixir       1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
 ##
