@@ -4,11 +4,11 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Kotlin   5 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.63 % 
-C++      5 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.31 % 
-Python   2 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-CMake    1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-JSON     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+C++      6 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.47 % 
+Kotlin   3 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.04 % 
+Python   2 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.25 % 
+CMake    1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+JSON     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 ##
