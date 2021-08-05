@@ -4,10 +4,9 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Python       30 mins         ███████████░░░░░░░░░░░░░░   43.40 % 
-Kotlin       22 mins         ████████░░░░░░░░░░░░░░░░░   32.02 % 
-Git Config   9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-XAML         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Kotlin       22 mins         ██████████████████▒░░░░░░   73.06 % 
+XAML         5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Git Config   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 ```
 <!--END_SECTION:waka-->
 ##
