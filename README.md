@@ -4,11 +4,10 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 48 mins   █████████████████▓░░░░░░░   70.11 % 
-C++          45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 % 
-CMake        16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+C++          45 mins         ███████████████▒░░░░░░░░░   61.58 % 
+CMake        16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 % 
+Python       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 <!--END_SECTION:waka-->
 ##
