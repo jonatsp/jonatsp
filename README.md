@@ -4,11 +4,11 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Python       5 hrs 52 mins   █████████████░░░░░░░░░░░░   52.08 % 
-Kotlin       4 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.72 % 
-JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-CSV          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python       5 hrs 52 mins   ██████████████░░░░░░░░░░░   56.15 % 
+Kotlin       3 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.98 % 
+JSON         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+CSV          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
 ##
