@@ -4,8 +4,8 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Kotlin   1 hr 33 mins    ███████████████████████▒░   93.68 % 
-Java     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Kotlin   3 hrs 58 mins   ████████████████████████▒   97.19 % 
+Java     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 <!--END_SECTION:waka-->
 ##
