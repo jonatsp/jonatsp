@@ -4,9 +4,9 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Kotlin   6 hrs 49 mins   ████████████████████▒░░░░   81.99 % 
-Python   1 hr 24 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Other    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Kotlin   6 hrs 34 mins   ████████████████████▒░░░░   81.70 % 
+Python   1 hr 24 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Java     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 ##
