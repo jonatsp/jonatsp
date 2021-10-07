@@ -4,7 +4,11 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Groovy       27 mins         ████████████░░░░░░░░░░░░░   47.57 % 
+Kotlin       18 mins         ███████▓░░░░░░░░░░░░░░░░░   31.28 % 
+Git Config   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Java         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 <!--END_SECTION:waka-->
 ##
