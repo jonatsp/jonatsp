@@ -4,7 +4,8 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Python       5 hrs 16 mins   █████████████████████████   99.88 % 
+Python       8 hrs 22 mins   ████████████████████████▓   98.94 % 
+Batchfile    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 ##
