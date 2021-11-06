@@ -4,10 +4,11 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Python      5 hrs 9 mins    ███████████████████▒░░░░░   77.24 % 
-XAML        1 hr 16 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.12 % 
-C#          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Batchfile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python      3 hrs 54 mins   ████████████████▓░░░░░░░░   66.65 % 
+XAML        1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+C#          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Batchfile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 ##
