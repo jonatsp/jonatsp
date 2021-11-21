@@ -4,10 +4,11 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-C++          2 hrs 56 mins   ██████████████████████▒░░   89.96 % 
-ObjectiveC   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-CMake        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+C++          2 hrs 33 mins   █████████████████████▓░░░   86.99 % 
+ObjectiveC   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Blazor       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+CMake        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
 ##
