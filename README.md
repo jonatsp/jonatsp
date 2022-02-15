@@ -4,6 +4,8 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
+Total: 75 hrs 9 mins
+
 Kotlin   67 hrs 28 mins  ██████████████████████▒░░   89.77 % 
 Java     3 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 JSON     1 hr 28 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
