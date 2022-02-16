@@ -4,13 +4,13 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Total: 75 hrs 9 mins
+Total: 69 hrs 36 mins
 
-Kotlin   67 hrs 28 mins  ██████████████████████▒░░   89.77 % 
-Java     3 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-JSON     1 hr 28 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Text     46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-INI      23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Kotlin   62 hrs 48 mins  ██████████████████████▓░░   90.24 % 
+Java     3 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JSON     1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Text     46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+NBTT     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
 ##
