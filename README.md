@@ -4,11 +4,11 @@
 **Time spent programming over the last 7 days:**
 <!--START_SECTION:waka-->
 ```text
-Kotlin           35 hrs 38 mins  ██████████████████████░░░   87.96 % 
-Access Widener   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Java             1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-JSON             49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-NBTT             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Kotlin               31 hrs 21 mins  ██████████████████████░░░   88.51 % 
+Java                 54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JSON                 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+NBTT                 39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Wavefront MTL File   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->
 ##
